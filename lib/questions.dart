@@ -1,6 +1,6 @@
 import 'package:quiz/questions_blue_print.dart';
 
-var questions = [
+List<QuestionsBluePrint> questions = [
   QuestionsBluePrint(
     'What are the main building blocks of Flutter UIs?',
     [
